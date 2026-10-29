@@ -1,16 +1,11 @@
-## Hi there 👋
+## Skills
+- **Automation:** n8n, Docker
+- **Backend:** Python (FastAPI), OpenCV, OCR (Tesseract, EasyOCR, PaddleOCR)
+- **AI/LLM:** OpenRouter, Gemini, Claude, ChatGPT
+- **Data:** Supabase (PostgreSQL), Excel export
+- **Other:** Requirements analysis, testing, documentation, client communication
 
-<!--
-**valyadefton/valyadefton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+- German: A1 → B1–B2 (in progress)
+- English: Basic (grammar ~B1, speaking in progress)
+- Russian: Native
