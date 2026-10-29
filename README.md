@@ -31,5 +31,6 @@ AI agent that finds B2B companies, scores them by fit, finds real emails, and wr
 
 ## 📫 Connect
 
+- **Telegram:** [@valyadefton](https://t.me/valyadefton)
 - **X (Twitter):** [@valyadefton](https://x.com/valyadefton)
 - **GitHub:** [@valyadefton](https://github.com/valyadefton)
